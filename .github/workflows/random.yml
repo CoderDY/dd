@@ -4,7 +4,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '12,33,51 * * * *' 
+    - cron: '02,23,41 * * * *' 
   workflow_dispatch:
   watch:
     types: started
